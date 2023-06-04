@@ -45,7 +45,8 @@ while True:
 OUTPUT:
 
 CLIENT:
-![image](https://github.com/aparnabalasubrmanian/EX-4/assets/123351172/006289ec-cb03-4040-bf79-d9137f32afa4)
+![c4](https://github.com/aparnabalasubrmanian/EX-4/assets/123351172/b16ffcb9-e37b-4658-acc2-986b1dff63b5)
+
 
 SERVER:
 ![s4](https://github.com/aparnabalasubrmanian/EX-4/assets/123351172/e9cc2e26-cb44-4221-9d50-c148defcd56e)
