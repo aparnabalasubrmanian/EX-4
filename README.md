@@ -2,6 +2,7 @@
 AIM:
    To write a python program for simulating ARP protocols using TCP.
 ALGORITHM:
+```
   Client:
   1. Start the program
   2. Using socket connection is established between client and server.
@@ -16,9 +17,9 @@ ALGORITHM:
     stored.
  4. Read the IP address which is send by the client.
  5. Map the IP address with its MAC address and return the MAC address to client
-
+```
 PROGRAM:
-
+```
 CLIENT:
 import socket
 s=socket.socket()
@@ -41,7 +42,7 @@ while True:
    ip=input("Enter logical Address : ")
    s.send(ip.encode())
    print("MAC Address",s.recv(1024).decode())
-   
+```   
 OUTPUT:
 
 CLIENT:
